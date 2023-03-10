@@ -5,4 +5,4 @@
   <img height= "180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLBS&layout=compact&theme=gruvbox_light"/>
 </div>
 ##
-![Snake animation](https://github.com/LeoLBS/LeoLBS/bloB/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LeoLBS/LeoLBS/blob/output/github-contribution-grid-snake.svg)

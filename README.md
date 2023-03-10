@@ -1,5 +1,5 @@
 ### Bem vindo ao meu Hub ☕
 <div>
-  <img height= "190em" src= "https://github-readme-stats.vercel.app/api?username=LeoLBS&show_icons=true&count_private=true&theme=gruvbox_light"/>
-  <img height= "190em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLBS&layout=compact"/>
+  <img height= "180em" src= "https://github-readme-stats.vercel.app/api?username=LeoLBS&show_icons=true&count_private=true&theme=gruvbox_light"/>
+  <img height= "180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLBS&layout=compact"/>
 </div>

@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="left">------------------------<br>- Java Developer<br>- Support leader<br>------------------------</p>
+<p align="left">------------------------<br>- Java Developer<br>- Support Leader<br>------------------------</p>
 
 ###
 
